@@ -6,7 +6,7 @@ Repo này bao gồm 3 file:
 - Môi trường: Google Colab
 - File: Khai phá và PTDL lớn 2.ipynb
 - Dữ liệu: Sample - Superstore
-- 
+  
 ## CODE2 – Mô hình Machine Learning với Spark
 - Môi trường: PyCharm
 - Công nghệ: PySpark
