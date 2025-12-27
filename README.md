@@ -17,3 +17,4 @@ Repo này bao gồm 3 file:
 - Môi trường: PyCharm
 - Mô hình: Random Forest
 - Dữ liệu: df_cleaned(đã làm sạch)
+- Giao diện Desktop Application (ứng dụng máy tính để bàn)
